@@ -1,0 +1,67 @@
+{
+	"zones": [
+		{
+			"zone": {
+				"zone_id": 1,
+				"name": "Noida",
+				"city_id": "1"
+			}
+		},
+		{
+			"zone": {
+				"zone_id": 2,
+				"name": "Gurgaon",
+				"city_id": "1"
+			}
+		},
+		{
+			"zone": {
+				"zone_id": 3,
+				"name": "South Delhi",
+				"city_id": "1"
+			}
+		},
+		{
+			"zone": {
+				"zone_id": 4,
+				"name": "Central Delhi",
+				"city_id": "1"
+			}
+		},
+		{
+			"zone": {
+				"zone_id": 5,
+				"name": "North Delhi",
+				"city_id": "1"
+			}
+		},
+		{
+			"zone": {
+				"zone_id": 6,
+				"name": "East Delhi",
+				"city_id": "1"
+			}
+		},
+		{
+			"zone": {
+				"zone_id": 7,
+				"name": "West Delhi",
+				"city_id": "1"
+			}
+		},
+		{
+			"zone": {
+				"zone_id": 501,
+				"name": "Faridabad",
+				"city_id": "1"
+			}
+		},
+		{
+			"zone": {
+				"zone_id": 600,
+				"name": "Ghaziabad",
+				"city_id": "1"
+			}
+		}
+	]
+}

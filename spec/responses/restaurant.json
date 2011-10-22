@@ -1,0 +1,46 @@
+{
+	"id": 315,
+	"name": "Sagar Ratna",
+	"url": "http://www.zomato.com/ncr/restaurants/south-delhi/mathura-road/sagar-ratna-315",
+	"location": {
+		"address": "B-1, A-11 Mohan Co-operative Ind Area, Mathura Road, New Delhi",
+		"locality": "Mathura Road",
+		"city": "Delhi",
+		"latitude": "28.5207270000",
+		"longitude": "77.2942530000"
+	},
+	"phone": "011 26955802, 011 26955803, 011 26955804",
+	"cuisines": "South Indian",
+	"timings": "11am - 11pm",
+	"avgCostForTwo": 450,
+	"isPureVeg": 1,
+	"hasBar": 0,
+	"hasDineIn": 1,
+	"hasDelivery": 1,
+	"acceptsCreditCards": 1,
+	"serviceCharge": null,
+	"vat": null,
+	"editorRating": {
+		"food": 2.5,
+		"service": 3.5,
+		"ambience": 2,
+		"overall": 3
+	},
+	"editorReview": "",
+	"userReviews": {
+		"count": 0
+	},
+	"discounts": [],
+	"photos": {
+		"0": {
+			"photo": {
+				"thumbUrl": "http://www.zomato.com/data/pictures/chains/305/1_thumb.jpg",
+				"url": "http://www.zomato.com/data/pictures/chains/305/1.jpg"
+			}
+		},
+		"photos_url": "http://www.zomato.com/ncr/restaurants/south-delhi/mathura-road/sagar-ratna-315/photos#tabtop"
+	},
+	"menu": {
+		"menu_url": "http://www.zomato.com/ncr/restaurants/south-delhi/mathura-road/sagar-ratna-315/menu#tabtop"
+	}
+}

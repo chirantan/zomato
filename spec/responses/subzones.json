@@ -1,0 +1,389 @@
+{
+	"subzones": [
+		{
+			"subzone": {
+				"subzone_id": 316,
+				"name": "Alaknanda",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 12,
+				"name": "Aurobindo Marg",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 14,
+				"name": "Bhikaji Cama Place",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 15,
+				"name": "Chanakyapuri",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 16,
+				"name": "Chitranjan Park",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 18,
+				"name": "Defence Colony",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 22,
+				"name": "East of Kailash",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 25,
+				"name": "Friends Colony",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 26,
+				"name": "Geetanjali Enclave",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 27,
+				"name": "Greater Kailash (GK) 1",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 490,
+				"name": "Greater Kailash (GK) 2",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 28,
+				"name": "Green Park",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 31,
+				"name": "Hauz Khas",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 32,
+				"name": "IGI Airport",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 648,
+				"name": "Jasola",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 35,
+				"name": "Jungpura",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 497,
+				"name": "Kailash Colony",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 36,
+				"name": "Kalkaji",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 39,
+				"name": "Khel Gaon Marg",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 40,
+				"name": "Lajpat Nagar 1",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 492,
+				"name": "Lajpat Nagar 2",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 493,
+				"name": "Lajpat Nagar 3",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 639,
+				"name": "Lajpat Nagar 4",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 45,
+				"name": "Mahipalpur",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 48,
+				"name": "Malviya Nagar",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 50,
+				"name": "Mathura Road",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 51,
+				"name": "Mehrauli",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 52,
+				"name": "MG Road",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 54,
+				"name": "Munirka",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 57,
+				"name": "Nehru Place",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 59,
+				"name": "New Friends Colony",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 61,
+				"name": "Nizamuddin",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 63,
+				"name": "Okhla Phase 1",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 681,
+				"name": "Okhla Phase 2",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 682,
+				"name": "Okhla Phase 3",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 66,
+				"name": "Panchsheel Park",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 68,
+				"name": "Qutab Institutional Area",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 69,
+				"name": "R K Puram",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 70,
+				"name": "Race Course",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 72,
+				"name": "Safdarjung",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 73,
+				"name": "Sainik Farms",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 74,
+				"name": "Saket",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 75,
+				"name": "Sardar Patel Marg",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 76,
+				"name": "Sarita Vihar",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 77,
+				"name": "Sarojini Nagar",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 317,
+				"name": "Satyaniketan",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 485,
+				"name": "SDA",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 81,
+				"name": "Shanti Niketan Marg",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 85,
+				"name": "South Extension 1",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 494,
+				"name": "South Extension 2",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 90,
+				"name": "Suraj Kund",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 91,
+				"name": "Tughlakabad Institutional Area",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 93,
+				"name": "Vasant Kunj",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 94,
+				"name": "Vasant Vihar",
+				"zone_id": "3"
+			}
+		},
+		{
+			"subzone": {
+				"subzone_id": 96,
+				"name": "Yusuf Sarai",
+				"zone_id": "3"
+			}
+		}
+	]
+}

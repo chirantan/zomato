@@ -1,0 +1,104 @@
+{
+	"cities": [
+		{
+			"city": {
+				"id": 1,
+				"name": "Delhi NCR",
+				"has_nightlife": 1,
+				"latitude": "28.625789",
+				"longitude": "77.210276",
+				"show_zones": 1
+			}
+		},
+		{
+			"city": {
+				"id": 3,
+				"name": "Mumbai",
+				"has_nightlife": 1,
+				"latitude": "19.017656",
+				"longitude": "72.856178",
+				"show_zones": 0
+			}
+		},
+		{
+			"city": {
+				"id": 4,
+				"name": "Bangalore",
+				"has_nightlife": 1,
+				"latitude": "12.971606",
+				"longitude": "77.594376",
+				"show_zones": 0
+			}
+		},
+		{
+			"city": {
+				"id": 2,
+				"name": "Kolkata",
+				"has_nightlife": 0,
+				"latitude": "22.572646",
+				"longitude": "88.363895",
+				"show_zones": 0
+			}
+		},
+		{
+			"city": {
+				"id": 5,
+				"name": "Pune",
+				"has_nightlife": 0,
+				"latitude": "18.520469",
+				"longitude": "73.856620",
+				"show_zones": 0
+			}
+		},
+		{
+			"city": {
+				"id": 6,
+				"name": "Hyderabad",
+				"has_nightlife": 0,
+				"latitude": "17.366",
+				"longitude": "78.476",
+				"show_zones": 0
+			}
+		},
+		{
+			"city": {
+				"id": 7,
+				"name": "Chennai",
+				"has_nightlife": 0,
+				"latitude": "13.083889",
+				"longitude": "80.27",
+				"show_zones": 0
+			}
+		},
+		{
+			"city": {
+				"id": 10,
+				"name": "Jaipur",
+				"has_nightlife": 0,
+				"latitude": "26.916087",
+				"longitude": "75.809695",
+				"show_zones": 0
+			}
+		},
+		{
+			"city": {
+				"id": 11,
+				"name": "Ahmedabad",
+				"has_nightlife": 0,
+				"latitude": "23.042662",
+				"longitude": "72.566729",
+				"show_zones": 0
+			}
+		},
+		{
+			"city": {
+				"id": 12,
+				"name": "Chandigarh",
+				"has_nightlife": 0,
+				"latitude": "30.737793",
+				"longitude": "76.77515",
+				"show_zones": 0
+			}
+		}
+	]
+}

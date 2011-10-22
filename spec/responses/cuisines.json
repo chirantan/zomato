@@ -1,0 +1,310 @@
+{
+	"cuisines": [
+		{
+			"cuisine": {
+				"cuisine_id": "1",
+				"cuisine_name": "American"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "3",
+				"cuisine_name": "Asian"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "5",
+				"cuisine_name": "Bakery"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "10",
+				"cuisine_name": "Bengali"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "25",
+				"cuisine_name": "Chinese"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "27",
+				"cuisine_name": "Raw Meats"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "30",
+				"cuisine_name": "Cafe"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "35",
+				"cuisine_name": "Continental"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "38",
+				"cuisine_name": "European"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "40",
+				"cuisine_name": "Fast Food"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "45",
+				"cuisine_name": "French"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "48",
+				"cuisine_name": "Gujarati"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "50",
+				"cuisine_name": "North Indian"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "55",
+				"cuisine_name": "Italian"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "60",
+				"cuisine_name": "Japanese"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "65",
+				"cuisine_name": "Kashmiri"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "66",
+				"cuisine_name": "Lebanese"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "67",
+				"cuisine_name": "Korean"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "68",
+				"cuisine_name": "Lounge"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "69",
+				"cuisine_name": "Malaysian"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "70",
+				"cuisine_name": "Mediterranean"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "73",
+				"cuisine_name": "Mexican"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "75",
+				"cuisine_name": "Mughlai"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "80",
+				"cuisine_name": "Multi Cuisine"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "81",
+				"cuisine_name": "Persian"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "82",
+				"cuisine_name": "Pizza"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "83",
+				"cuisine_name": "Sea Food"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "84",
+				"cuisine_name": "Russian"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "85",
+				"cuisine_name": "South Indian"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "86",
+				"cuisine_name": "Sri Lankan"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "90",
+				"cuisine_name": "Street Food"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "93",
+				"cuisine_name": "Tibetan"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "95",
+				"cuisine_name": "Thai"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "100",
+				"cuisine_name": "Desserts"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "110",
+				"cuisine_name": "Others"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "47",
+				"cuisine_name": "Goan"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "7",
+				"cuisine_name": "Biryani"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "71",
+				"cuisine_name": "Malwani"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "2",
+				"cuisine_name": "Andhra"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "99",
+				"cuisine_name": "Vietnamese"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "105",
+				"cuisine_name": "Pub"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "62",
+				"cuisine_name": "Kerala"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "4",
+				"cuisine_name": "Arabian"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "87",
+				"cuisine_name": "Portuguese"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "88",
+				"cuisine_name": "Rajasthani"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "22",
+				"cuisine_name": "Burmese"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "72",
+				"cuisine_name": "Mangalorean"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "89",
+				"cuisine_name": "Spanish"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "49",
+				"cuisine_name": "Hyderabadi"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "6",
+				"cuisine_name": "Afghani"
+			}
+		},
+		{
+			"cuisine": {
+				"cuisine_id": "74",
+				"cuisine_name": "Mongolian"
+			}
+		}
+	]
+}
