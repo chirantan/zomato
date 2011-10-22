@@ -1,5 +1,5 @@
 # Zomato
-_Ruby gem that wraps []Zomato API](http://www.zomato.com/api/documentation)_
+_Ruby gem that wraps [Zomato API](http://www.zomato.com/api/documentation)_
 
 In your Gemfile
 
