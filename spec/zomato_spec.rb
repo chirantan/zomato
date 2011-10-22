@@ -157,7 +157,7 @@ describe Zomato do
       end
       
       it 'should search for restaurants' do
-        restaurants = Zomato::Restaurant.search(1, 'search term', 'dish', 'name', 'cuisine', 'address')
+        restaurants = Zomato::Restaurant.search(1, 'search term')
         restaurants.results_found.should == 100
         restaurants.results_start.should == 0
         restaurants.results_shown.should == 10

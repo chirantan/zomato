@@ -125,14 +125,10 @@ module Zomato
         Restaurant.new(attributes)
       end
       
-      def search(city_id, search_term, dish, name, cuisine, address, query = {})
+      def search(city_id, search_term, query = {})
         query = {
           :city_id  => city_id,
-          :q        => search_term,
-          :qdish    => dish,
-          :qname    => name,
-          :qcuisine => cuisine,
-          :qaddress => address
+          :q        => search_term
         }.merge(query)
         response = Api.get("/search", :query => query).parsed_response
         Restaurant.build(response, query)
